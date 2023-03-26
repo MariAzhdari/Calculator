@@ -1,0 +1,18 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "this is calculator webapp",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Mari"
+  ],
+  "author": "Marziyeh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
